@@ -1,0 +1,7 @@
+Running code
+clang++ -std=c++17 Practice_Problems/unsolved/filename.cpp -o /tmp/temp && /tmp/temp
+clang++ -std=c++17 Practice_Problems/unsolved/Redistributing-Gifts.cpp -o /tmp/temp && /tmp/temp
+
+Tasks
+    Try to get play button for each file to work
+    Use newest version of c++ 

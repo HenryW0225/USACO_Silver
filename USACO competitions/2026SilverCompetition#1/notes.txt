@@ -1,0 +1,8 @@
+Before
+- 
+
+After
+- dont use usaco guide tags when preparing; ruins the point of solving the prep questions
+
+
+Score 1000/1000 with 12 minutes remaining - Passed to USACO gold division

@@ -1,0 +1,5 @@
+clang++ -std=c++17 2026SilverCompetition#1/unsolved/Lineup-Queries.cpp -o /tmp/temp && /tmp/temp
+
+clang++ -std=c++17 2026SilverCompetition#1/unsolved/Mooclear-Reactor.cpp -o /tmp/temp && /tmp/temp
+
+clang++ -std=c++17 2026SilverCompetition#1/unsolved/Sliding-Window-Summation.cpp -o /tmp/temp && /tmp/temp
